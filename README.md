@@ -1,0 +1,2 @@
+# zbot
+Discord bot
